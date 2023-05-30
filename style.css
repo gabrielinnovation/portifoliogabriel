@@ -110,9 +110,9 @@ body {
     font-weight: 300;
     font-size: 17px;
     color: #000000;
-    padding-top: 5px;
+    padding-top: 10px;
     padding-right: 50px;
-    padding-bottom: 5px;
+    padding-bottom: 10px;
     padding-left: 50px;
     margin-right: 500px;
     border-radius: 15px;
@@ -120,7 +120,6 @@ body {
 }
 
 .rodape {
-    padding: 5px;
     border-top:0.4px solid #fff2e7 ;
     background-color: #001735;
 }
