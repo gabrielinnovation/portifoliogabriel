@@ -118,19 +118,3 @@ body {
     border-radius: 15px;
     background-color: #7b95aa;
 }
-
-.rodape {
-    background-color: #001735;
-}
-
-.rodape-link {
-    padding: 0px;
-    margin: 0px;
-    text-align: center;
-    font-weight: 400;
-    color: rgb(255, 255, 255);
-}
-
-.rodape-link-a {
-    color: rgb(136, 149, 168);
-}
