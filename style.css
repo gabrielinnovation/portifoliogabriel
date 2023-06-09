@@ -120,11 +120,12 @@ body {
 }
 
 .rodape {
-    border-top: 84px solid;
     background-color: #001735;
 }
 
 .rodape-link {
+    padding: 0px;
+    margin: 0px;
     text-align: center;
     font-weight: 400;
     color: rgb(255, 255, 255);
